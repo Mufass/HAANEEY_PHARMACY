@@ -19,6 +19,7 @@ namespace Pharmacy_Inventory_Management_System_video_12
         public SellMedicine()
         {
             InitializeComponent();
+            //asdfsd
         }
 
         private void button4_Click(object sender, EventArgs e)
