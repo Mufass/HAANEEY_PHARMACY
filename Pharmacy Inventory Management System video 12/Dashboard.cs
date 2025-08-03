@@ -15,6 +15,7 @@ namespace Pharmacy_Inventory_Management_System_video_12
         public Dashboard()
         {
             InitializeComponent();
+            //hi
         }
 
         private void button5_Click(object sender, EventArgs e)
